@@ -7,15 +7,11 @@
 
 > Instantclient .zip archive must be in the directory with Dockerfile
 
-************************************************************
-                                                           *
-                       WARNING!!!                          *
-                                                           *
-Basic Light Package - Smaller version of the Basic package,* 
-with only English error messages and Unicode, ASCII,       *
-and Western European character set support                 *
-                                                           *
-************************************************************
+WARNING!!!                                                            
+Basic Light Package - Smaller version of the Basic package,
+with only English error messages and Unicode, ASCII,       
+and Western European character set support                 
+                                                           
 
 
 
