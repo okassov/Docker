@@ -1,18 +1,11 @@
-************************************************************
+## Dockerfile for NodeJS app with Oracle client (Lite Version)
 
-Used tools:
+### Used tools:
 
-  1) Node version: 12.11.1
-  2) Oracle instantclient basic lite version: 19.3
+  1. Node version: 12.11.1
+  2. Oracle instantclient basic lite version: 19.3
 
-************************************************************
-
-Instantclient .zip archive must be in the
-directory with Dockerfile
-
-************************************************************
-
-musl-dev libraries needed
+> Instantclient .zip archive must be in the directory with Dockerfile
 
 ************************************************************
                                                            *
