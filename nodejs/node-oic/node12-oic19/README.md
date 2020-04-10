@@ -6,4 +6,3 @@
   2. Oracle instantclient version: 19.3
 
 > Instantclient .zip archive must be in the directory with Dockerfile
-> musl-dev libraries needed
