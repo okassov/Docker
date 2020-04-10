@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-MAINTAINER Okassov Marat - DevOps Technodom <dmao@technodom.kz>
+MAINTAINER Okassov Marat <okassov.marat@gmail.com>
 
 ENV NGINX_VERSION 1.14.0-0~bionic
 ENV TZ=Asia/Almaty
